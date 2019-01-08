@@ -32,7 +32,4 @@ gatewayworker，然后移植本程序的业务逻辑部分即可。如果您是w
 
 5、在win下一定要记得双击 laychat/vendor/Workerman/start_for_win.bat 启动 workerman，不要关闭！！！
 
-# 了解效果
-http://www.thinkphp.cn/code/2289.html
-
 
